@@ -1,0 +1,371 @@
+#A106,Off-Market,,,
+#A403,Off-Market,,,
+#A504,Off-Market,,,"1,000 ftsq"
+#A507,Off-Market,,,
+#A601,Off-Market,,,
+#A806,"Off-Market on 04/06/2007 at $825,000",2 beds,1 bath,
+#A901,Off-Market,,,
+#A902,Off-Market,,,
+#A1307,Off-Market,,,
+#A1702,Off-Market,,,
+#A1706,Off-Market,,,
+#A1707,Off-Market,,,
+#B507,Off-Market,,,
+#B904,Off-Market,,,
+#B906,Off-Market,,,
+#B1706,Off-Market,,,
+#C103,Off-Market,,,
+#C104,Off-Market,,,
+#C105,Off-Market,,,
+#C307,Off-Market,,,
+#C602,"Sold on 07/20/2009 for $450,000",,,
+#C1206,Off-Market,,,
+#C1704,Off-Market,,,
+#D8,Off-Market,,,800 ftsq
+#D103,Sold on 10/02/2017 for $0,1 bed,1 bath,
+#D104,"Sold on 10/02/2017 for $1,050,000",,,
+#D105,"Sold on 10/16/2013 for $699,000",,,
+#D106,"Listed for rent at $3,850",2 beds,1 bath,"1,000 ftsq"
+#D107,"Sold on 02/27/2013 for $605,000",,,
+#D200,Off-Market,,,
+#D201,"Sold on 09/19/2005 for $416,000",,,
+#D202,"Sold on 04/06/2011 for $445,000",,,
+#D203,"Sold on 11/05/2008 for $425,000",,,
+#D207,"Off-Market on 03/15/2018 at $4,500",2 beds,1 bath,
+#D301,"Sold on 07/31/2018 for $685,000",1 bed,1 bath,800 ftsq
+#D302,"Sold on 01/13/2015 for $600,000",1 bed,1 bath,800 ftsq
+#D303,"Off-Market on 09/17/2018 at $3,250",1 bed,1 bath,816 ftsq
+#D306,Off-Market,,,
+#D401,"Sold on 11/17/2015 for $287,500",,,
+#D402,"Sold on 09/01/2010 for $420,000",,,
+#D404,Sold on 04/27/2015 for $0,,,
+#D406,"Off-Market on 06/26/2014 at $3,600",2 beds,1 bath,
+#D407,"Sold on 11/06/2017 for $1,150,000",2 beds,1 bath,
+#D504,"Sold on 08/24/2016 for $1,050,000",,,
+#D505,"Sold on 07/09/2014 for $777,000",2 beds,1 bath,
+#D506,"Sold on 11/06/2017 for $1,055,000",,,
+#D507,"Sold on 08/15/2006 for $652,000",,,
+#D601,"Off-Market on 10/11/2018 at $3,000",1 bed,1 bath,824 ftsq
+#D605,"Sold on 03/16/2016 for $999,000",,,
+#D607,"Sold on 09/21/2015 for $1,115,000",2 beds,1 bath,"1,100 ftsq"
+#D701,"Sold on 08/15/2011 for $457,500",,,
+#D705,"Sold on 06/21/2011 for $550,000",,,
+#D706,Off-Market,,,
+#D707,"Off-Market on 10/20/2014 at $3,400",2 beds,1 bath,
+#D802,"Sold on 03/05/2018 for $815,000",10 beds,1 bath,800 ftsq
+#D803,"Sold on 11/29/2007 for $530,000",,,
+#D804,"Sold on 10/24/2011 for $630,000",,,
+#D805,"Sold on 03/05/2018 for $975,000",,,
+#D906,"Sold on 04/21/2010 for $620,000",2 beds,1 bath,"1,000 ftsq"
+#D1001,"Sold on 03/20/2009 for $116,500",,,
+#D1002,"Off-Market on 10/16/2015 at $2,900",1 bed,1 bath,800 ftsq
+#D1003,"Sold on 05/10/2010 for $495,000",,,
+#D1004,"Sold on 05/22/2008 for $720,000",2 beds,1 bath,"1,000 ftsq"
+#D1005,"Off-Market on 09/26/2010 at $2,700",studio,,"1,100 ftsq"
+#D1006,"Sold on 03/07/2005 for $650,000",,,
+#D1007,Off-Market,,,
+#D1103,Sold on 12/05/2011 for $0,,,
+#D1104,Off-Market,,,
+#D1107,Off-Market,,,
+#D1201,"Off-Market on 03/29/2018 at $3,000",1 bed,1 bath,824 ftsq
+#D1202,"Off-Market on 03/27/2018 at $3,150",1 bed,1 bath,831 ftsq
+#D1203,"Sold on 09/16/2013 for $589,000",1 bed,1 bath,
+#D1206,Sold on 11/01/2017 for $0,,,
+#D1301,"Sold on 01/25/2018 for $780,000",1 bed,1 bath,800 ftsq
+#D1304,"Sold on 01/05/2006 for $665,000",,,
+#D1305,Off-Market,,,
+#D1307,"Sold on 01/27/2005 for $625,000",,,
+#D1401,Off-Market,,,
+#D1402,"Sold on 02/03/2012 for $405,000",1 bed,1 bath,800 ftsq
+#D1407,Sold on 03/07/2017 for $0,,,
+#D1503,Off-Market,,,
+#D1504,"Sold on 05/18/2010 for $665,000",2 beds,1 bath,"1,000 ftsq"
+#D1506,"Sold on 05/27/2015 for $948,000",2 beds,1 bath,"1,000 ftsq"
+#D1507,Off-Market,,,
+#D1601,"Sold on 01/22/2014 for $505,800",1 bed,1 bath,801 ftsq
+#D1602,"Sold on 05/22/2015 for $675,000",1 bed,1 bath,
+#D1604,"Sold on 07/21/2011 for $641,000",2 beds,1 bath,"1,000 ftsq"
+#D1606,"Sold on 03/09/2017 for $1,030,000",2 beds,1 bath,"1,100 ftsq"
+#D1607,Off-Market,,,
+#D1701,Off-Market,,,
+#D1703,"Off-Market on 12/10/2009 at $575,000",studio,,800 ftsq
+#D1704,"Off-Market on 12/10/2009 at $715,000",2 beds,1 bath,"1,000 ftsq"
+#D1707,"Sold on 06/06/2018 for $1,170,000",2 beds,1 bath,
+#D1801,"Sold on 06/01/2016 for $1,565,000",2 beds,2 baths,
+#D1802,"Off-Market on 09/10/2014 at $3,300",1 bed,1 bath,
+#D1803,Off-Market,,,
+#D1804,"Sold on 04/07/2011 for $525,000",,,
+#D1805,"Sold on 10/04/2007 for $675,000",1 bed,1 bath,
+#D1806,Off-Market,,,
+#D1901,Off-Market,,,
+#D1902,"Off-Market on 10/14/2014 at $3,200",1 bed,1 bath,
+#D1903,Off-Market,,,
+#D1906,Off-Market,,,
+#D2001,"Sold on 01/28/2006 for $860,000",,,
+#D2002,"Sold on 08/09/2007 for $550,000",,,
+#D2005,"Sold on 10/10/2018 for $960,000",1 bed,1 bath,800 ftsq
+#D2006,"Sold on 02/08/2010 for $565,000",,,
+#D4101,Off-Market,,,
+#6,"Listed for sale at $1,049,000",,,
+#E102,"Sold on 08/12/2013 for $330,000",,,
+#E103,"Sold on 04/17/2007 for $426,000",1 bed,1 bath,700 ftsq
+#E104,Off-Market,,,
+#E106,Off-Market,,,
+#E113,Off-Market,,,
+#E130,Off-Market,,,
+#E201,"Sold on 03/11/2010 for $850,000",,,
+#E202,"Sold on 11/01/2005 for $250,000",,,
+#E203,"Sold on 03/15/2005 for $410,000",,,
+#E206,"Sold on 12/11/2009 for $748,300",3 beds,2 baths,"1,250 ftsq"
+#E207,"Sold on 07/18/2018 for $750,000",1 bed,1 bath,
+#E208,"Sold on 05/25/2011 for $390,000",,,
+#E301,Off-Market,,,
+#E303,Off-Market,,,
+#E304,"Sold on 07/09/2018 for $680,000",1 bed,1 bath,746 ftsq
+#E305,"Sold on 05/02/2011 for $405,000",1 bed,1 bath,
+#E306,Sold on 04/14/2016 for $0,,,
+#E307,Off-Market,,,
+#E308,Off-Market,,,
+#E404,"Sold on 06/22/2010 for $395,000",1 bed,1 bath,
+#E406,"Sold on 06/19/2013 for $840,000",3 beds,1.5 baths,
+#E407,"Sold on 09/28/2018 for $790,000",1 bed,1 bath,
+#E408,"Off-Market on 08/29/2018 at $3,250",1 bed,1 bath,800 ftsq
+#E503,"Sold on 08/15/2012 for $405,000",1 bed,1 bath,
+#E504,"Sold on 12/14/2012 for $445,000",1 bed,1 bath,
+#E505,"Off-Market on 10/05/2011 at $2,400",1 bed,1 bath,
+#E506,"Sold on 07/26/2007 for $820,000",,,
+#E507,Off-Market,,,
+#E508,"Sold on 05/20/2013 for $420,000",1 bed,1 bath,
+#E530,Off-Market,,,
+#E601,"Sold on 04/05/2016 for $900,000",,,
+#E605,Sold on 05/17/2017 for $0,1 bed,1 bath,800 ftsq
+#E606,"Sold on 08/07/2013 for $850,000",3 beds,2.5 baths,"1,250 ftsq"
+#E607,"Off-Market on 08/16/2007 at $529,000",1 bed,1 bath,800 ftsq
+#E608,"Sold on 08/03/2010 for $499,999",,,
+#E702,"Sold on 04/11/2011 for $282,500",,,
+#E703,"Off-Market on 01/21/2011 at $1,900",1 bed,1 bath,700 ftsq
+#E704,Off-Market,,,
+#E708,"Off-Market on 12/04/2018 at $799,000",1 bed,1 bath,800 ftsq
+#E801,"Sold on 04/25/2005 for $560,000",,,
+#E802,"Sold on 09/17/2014 for $359,000",studio,1 bath,
+#E803,"Sold on 07/08/2013 for $450,000",2 beds,1 bath,
+#E804,"Sold on 12/21/2016 for $675,000",,,
+#E806,"Sold on 10/06/2011 for $665,691",,,
+#E807,Sold on 03/06/2017 for $0,,,
+#E808,"Sold on 07/28/2010 for $545,000",1 bed,1 bath,
+#E905,"Sold on 04/14/2014 for $538,000",1 bed,1 bath,800 ftsq
+#E906,"Sold on 07/29/2016 for $1,375,000",,,
+#E907,"Sold on 04/07/2010 for $470,000",studio,,800 ftsq
+#E908,"Sold on 12/16/2014 for $612,500",1 bed,1 bath,800 ftsq
+#E1001,"Off-Market on 08/06/2015 at $3,900",2 beds,1 bath,"1,050 ftsq"
+#E1003,"Sold on 10/09/2009 for $446,250",1 bed,1 bath,700 ftsq
+#E1005,"Sold on 06/26/2014 for $525,000",1 bed,1 bath,
+#E1007,"Sold on 07/03/2018 for $785,000",1 bed,1 bath,
+#E1008,Sold on 08/05/2016 for $0,,,
+#E1101,Off-Market,,,
+#E1102,Off-Market,,,
+#E1103,"Sold on 04/09/2013 for $790,000",2 beds,2 baths,"1,300 ftsq"
+#E1104,"Sold on 06/10/2016 for $720,000",,,
+#E1105,"Off-Market on 09/04/2018 at $2,950",1 bed,1 bath,800 ftsq
+#E1108,"Sold on 11/09/2012 for $465,000",,,
+#E1201,"Sold on 08/30/2010 for $591,800",,,
+#E1202,"Off-Market on 02/01/2015 at $435,000",studio,1 bath,
+#E1203,"Sold on 11/21/2018 for $698,000",,,
+#E1204,Sold on 02/17/2018 for $0,,,
+#E1205,"Sold on 10/11/2017 for $723,000",,,
+#E1206,"Sold on 11/17/2014 for $1,106,000",,,
+#E1207,"Sold on 05/10/2012 for $463,000",1 bed,1 bath,800 ftsq
+#E1208,"Off-Market on 09/21/2015 at $3,200",1 bed,1 bath,800 ftsq
+#E1301,"Listed for sale at $999,000",2 beds,1 bath,
+#E1302,"Sold on 10/10/2013 for $380,000",studio,1 bath,500 ftsq
+#E1303,Off-Market,,,
+#E1304,Off-Market,,,
+#E1307,"Sold on 07/24/2007 for $550,000",1 bed,1 bath,800 ftsq
+#E1403,Off-Market,,,
+#E1404,Off-Market,,,
+#E1405,"Sold on 01/26/2006 for $420,000",,,
+#E1408,"Sold on 07/02/2018 for $874,000",1 bed,1 bath,800 ftsq
+#E1501,Off-Market,,,
+#E1504,Off-Market,,,
+#E1508,Off-Market,,,
+#E1602,"Sold on 12/10/2013 for $360,000",,,
+#E1603,"Sold on 10/06/2014 for $570,000",1 bed,1 bath,700 ftsq
+#E1604,"Sold on 02/08/2011 for $450,000",1 bed,1 bath,
+#E1605,"Off-Market on 06/04/2018 at $3,000",1 bed,1 bath,800 ftsq
+#E1607,"Sold on 02/08/2010 for $492,000",1 bed,1 bath,
+#E1701,"Sold on 11/30/2012 for $620,000",2 beds,1 bath,
+#E1705,"Sold on 05/23/2013 for $442,000",1 bed,1 bath,
+#E1706,"Sold on 09/02/2008 for $900,000",,,
+#E1707,"Off-Market on 07/12/2013 at $2,750",1 bed,1 bath,
+#E1804,"Sold on 01/05/2007 for $475,000",,,
+#E1805,"Sold on 08/11/2004 for $350,000",,,
+#E1806,"Sold on 07/28/2004 for $495,000",,,
+#E1808,"Sold on 12/04/2012 for $496,000",1 bed,1 bath,800 ftsq
+#E1901,"Sold on 01/29/2015 for $800,000",,,
+#E1902,"Sold on 08/25/2016 for $449,000",studio,1 bath,
+#E1904,Sold on 02/05/2010 for $0,,,
+#E1905,"Sold on 01/28/2010 for $410,000",1 bed,1 bath,
+#E1906,"Sold on 07/29/2014 for $950,000",,,
+#E1908,Off-Market,,,
+#E2001,"Sold on 04/08/2010 for $610,000",2 beds,1 bath,
+#E2002,"Sold on 07/26/2017 for $496,000",studio,1 bath,500 ftsq
+#E2004,"Off-Market on 05/02/2018 at $2,950",1 bed,1 bath,750 ftsq
+#E2005,"Sold on 01/25/2008 for $477,500",,,
+#E2006,Off-Market,,,
+#E2007,Off-Market,,,
+#7,"Sold on 09/04/2014 for $999,000",2 beds,2 baths,"1,000 ftsq"
+#F103,"Sold on 10/12/2012 for $422,500",,,
+#F104,Off-Market,,,
+#F106,Off-Market,,,
+#F107,"Sold on 11/28/2018 for $1,496,000",3 beds,2 baths,"1,000 ftsq"
+#F202,"Listed for sale at $499,000",1 bed,1 bath,500 ftsq
+#F203,"Sold on 08/14/2013 for $545,000",2 beds,1 bath,
+#F204,"Sold on 07/22/2014 for $750,000",,,
+#F205,"Sold on 07/27/2005 for $596,000",,,
+#F206,Off-Market,,,
+#F207,"Sold on 05/19/2013 for $560,000",2 beds,1 bath,"1,000 ftsq"
+#F301,"Sold on 02/09/2016 for $1,237,500",3 beds,1.5 baths,
+#F304,Off-Market,,,
+#F306,"Sold on 10/26/2012 for $1,300,000",,,
+#F401,Off-Market,,,
+#F404,Off-Market,,,
+#F406,"Sold on 10/26/2012 for $1,300,000",,,
+#F501,Off-Market,,,
+#F505,"Off-Market on 10/07/2016 at $3,500",2 beds,1 bath,"1,100 ftsq"
+#F507,"Sold on 09/13/2011 for $615,000",,,
+#F601,"Sold on 01/12/2011 for $800,000",,,
+#F602,"Off-Market on 02/20/2018 at $2,100",studio,1 bath,500 ftsq
+#F606,"Listed for sale at $1,200,000",2 beds,1 bath,"1,000 ftsq"
+#F607,"Sold on 12/01/2004 for $525,000",,,
+#F702,"Off-Market on 02/21/2017 at $2,200",studio,1 bath,500 ftsq
+#F703,"Sold on 07/14/2014 for $675,000",1 bed,1 bath,
+#F704,"Off-Market on 01/06/2017 at $1,165,000",2 beds,1 bath,
+#F706,"Sold on 11/03/2008 for $710,000",,,
+#F707,"Sold on 12/01/2011 for $615,000",2 beds,1 bath,
+#F801,"Sold on 02/05/2013 for $845,000",,,
+#F802,"Sold on 05/08/2018 for $560,000",studio,1 bath,
+#F803,"Listed for sale at $735,000",1 bed,1 bath,821 ftsq
+#F806,"Off-Market on 11/17/2016 at $4,000",2 beds,1 bath,"1,000 ftsq"
+#F807,"Sold on 03/05/2015 for $901,000",2 beds,1 bath,
+#F904,Off-Market,,,
+#F905,"Sold on 09/11/2014 for $840,000",2 beds,1 bath,
+#F906,Sold on 02/13/2013 for $0,,,
+#F907,"Sold on 09/29/2005 for $760,000",,,
+#F1001,"Sold on 03/14/2012 for $769,000",3 beds,1.5 baths,
+#F1002,"Sold on 10/04/2018 for $535,500",studio,1 bath,500 ftsq
+#F1003,"Sold on 05/10/2006 for $480,000",,,
+#F1004,Off-Market,,,
+#F1005,"Sold on 12/13/2004 for $525,000",,,
+#F1007,Off-Market,,,
+#F1202,"Sold on 03/13/2017 for $475,000",studio,1 bath,500 ftsq
+#F1203,"Sold on 10/26/2007 for $555,000",1 bed,1 bath,800 ftsq
+#F1204,"Sold on 03/31/2014 for $775,000",2 beds,1 bath,"1,000 ftsq"
+#F1301,"Off-Market on 07/16/2018 at $5,350",3 beds,2 baths,
+#F1303,"Sold on 02/27/2017 for $800,000",1 bed,1 bath,
+#F1402,"Off-Market on 01/27/2017 at $2,150",studio,1 bath,500 ftsq
+#F1404,"Sold on 12/20/2010 for $575,000",,,
+#F1405,"Sold on 12/28/2004 for $499,999",,,
+#F1407,Off-Market,,,
+#F1503,"Sold on 05/07/2018 for $832,500",1 bed,1 bath,800 ftsq
+#F1506,"Sold on 06/19/2007 for $685,000",,,
+#F1507,"Sold on 09/21/2016 for $1,225,000",2 beds,1 bath,"1,000 ftsq"
+#F1602,"Off-Market on 05/02/2018 at $2,500",studio,1 bath,500 ftsq
+#F1603,"Sold on 12/04/2006 for $535,000",,,
+#F1604,"Sold on 02/22/2008 for $815,000",,,
+#F1606,Off-Market,,,
+#F1607,Off-Market,,,
+#F1701,Sold on 11/05/2015 for $0,,,
+#F1704,"Sold on 08/04/2004 for $499,999",,,
+#F1705,"Off-Market on 12/05/2018 at $1,050,000",2 beds,1 bath,"1,090 ftsq"
+#F1706,"Sold on 05/22/2015 for $1,200,000",2 beds,2 baths,
+#F1802,Off-Market,,,
+#F1803,"Sold on 12/19/2011 for $615,000",1 bed,1 bath,
+#F1805,"Sold on 05/28/2014 for $651,000",,,
+#F1806,"Sold on 06/29/2009 for $650,000",1 bed,1 bath,760 ftsq
+#F1901,"Sold on 02/02/2005 for $795,000",,,
+#F1902,Off-Market,,,
+#F1903,Off-Market,,,
+#F1904,Off-Market,,,
+#F1905,"Sold on 07/08/2014 for $610,000",,,
+#F2002,"Sold on 10/20/2017 for $835,000",1 bed,1 bath,821 ftsq
+#F2003,"Off-Market on 07/16/2014 at $3,000",1 bed,1 bath,800 ftsq
+#F2005,"Sold on 10/17/2016 for $1,075,000",,,
+#F2006,"Sold on 10/17/2016 for $975,000",1 bed,1 bath,750 ftsq
+#8,"Off-Market on  at $465,000",1 bed,1 bath,800 ftsq
+#H604,Off-Market,,,
+#H1404,Off-Market,,,
+#H2004,Off-Market,,,
+#J604,Off-Market,,,
+#K1806,Off-Market,,,
+#K2005,Off-Market,,,
+#L505,Off-Market,,,
+#L1005,"Off-Market on 04/01/2014 at $480,000",1 bed,1 bath,800 ftsq
+#L1402,Off-Market,,,
+#L1404,Off-Market,,,
+#L1408,Off-Market,,,
+#M905,Off-Market,,,
+#M1902,Off-Market,,,
+D170304,"Off-Market on 12/03/2009 at $1,290,000",4 beds,2 baths,"1,800 ftsq"
+E201202,"Off-Market on 01/20/2010 at $875,000",3 beds,2 baths,
+F306/406,"Off-Market on 10/05/2012 at $1,395,000",4 beds,3 baths,
+#RES,Off-Market,,,
+#103,"Sold on 10/12/2012 for $422,500",1 bed,1 bath,800 ftsq
+E1603/160,Off-Market,,,
+#202,"Off-Market on 04/26/2015 at $425,000",studio,1 bath,500 ftsq
+#203,"Sold on 03/29/2006 for $450,000",,,
+#306,"Off-Market on 04/19/2011 at $8,500",4 beds,3 baths,"2,200 ftsq"
+#307,"Sold on 12/20/2004 for $420,000",,,
+#401,Off-Market,,,
+#404,Off-Market,,,
+#407,Off-Market,,,
+#502,"Off-Market on 10/09/2015 at $2,700",studio,1 bath,500 ftsq
+#504,"Off-Market on 10/20/2015 at $1,050,000",2 beds,1 bath,"1,050 ftsq"
+#506,"Sold on 11/08/2017 for $965,000",2 beds,1 bath,
+#507,"Sold on 09/18/2011 for $629,000",2 beds,1 bath,"1,000 ftsq"
+#602,"Off-Market on 12/20/2015 at $2,100",studio,1 bath,500 ftsq
+#607,"Off-Market on 01/15/2009 at $699,000",2 beds,1 bath,"1,000 ftsq"
+#608,"Sold on 08/22/2010 for $499,999",1 bed,1 bath,800 ftsq
+#801,"Sold on 02/22/2013 for $869,000",3 beds,1.5 baths,"1,250 ftsq"
+#804,"Off-Market on 05/30/2009 at $679,000",2 beds,1 bath,"1,000 ftsq"
+#904,Off-Market,,,
+#905,"Off-Market on 01/15/2009 at $459,000",1 bed,1 bath,800 ftsq
+#906E,Off-Market,,,
+#1001,Off-Market,,,
+#10-2,Off-Market,,,
+#10-3,"Off-Market on 01/11/2009 at $595,000",1 bed,1 bath,600 ftsq
+#1003,"Sold on 03/14/2010 for $510,000",1 bed,1 bath,800 ftsq
+#1003D,Off-Market,,,
+#1004,Off-Market,,,
+#1005,Off-Market,,,
+#1007,"Sold on 08/13/2014 for $950,000",2 beds,2 baths,"1,050 ftsq"
+#1101,Off-Market,,,
+#1104D,Off-Market,,,
+#1108,"Sold on 11/27/2012 for $479,000",1 bed,1 bath,800 ftsq
+#1202,"Sold on 08/28/2012 for $300,000",,,
+#1205,Off-Market,,,
+#1207,"Off-Market on 01/24/2012 at $499,000",1 bed,1 bath,800 ftsq
+#1301,"Sold on 06/30/2010 for $790,000",,,
+#1303,Off-Market,,,
+E1303/1304,"Listed for sale at $2,100,000",4 beds,2 baths,
+#1402,Off-Market,,,
+#1404,"Sold on 12/20/2010 for $575,000",2 beds,1 bath,"1,000 ftsq"
+#1603,Off-Market,,,
+E1603/1604,"Off-Market on 10/09/2017 at $6,500",3 beds,2 baths,
+#1701,Off-Market,,,
+#1703,Off-Market,,,
+#1704,Off-Market,,,
+#1705,Off-Market,,,
+#1801,Off-Market,,,
+#1806,Off-Market,,,
+#1808B,Off-Market,,,
+E1803/1804,"Off-Market on 06/02/2015 at $4,350",3 beds,2 baths,
+#1903,Off-Market,,,
+#1904,"Sold on 01/05/2006 for $650,000",,,
+#2001,Off-Market,,,
+#2002,"Off-Market on 07/10/2007 at $349,500",studio,1 bath,496 ftsq
+#2005,Off-Market,,,
+#2006,"Sold on 10/16/2009 for $810,000",3 beds,1.5 baths,"1,250 ftsq"
+#2007,Off-Market,,,
+#1303/4,"Sold on 05/07/2014 for $950,000",,,
+#13101,"Sold on 09/05/2007 for $499,000",,,
+#306406,"Off-Market on 01/23/2012 at $7,000",4 beds,3 baths,"2,200 ftsq"
